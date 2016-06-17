@@ -1,0 +1,2 @@
+# MyBlog
+Spring MVC Template
